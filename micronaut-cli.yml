@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.adam.alexa
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, aws-alexa, aws-lambda, gradle, jms-sqs, junit, kotlin, logback, readme, shade, yaml]
